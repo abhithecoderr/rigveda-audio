@@ -1,0 +1,57 @@
+{
+  "mandala": 1,
+  "hymn": 5,
+  "total_stanzas": 10,
+  "stanzas": [
+    {
+      "stanza": 1,
+      "start_ms": 398,
+      "end_ms": 12186
+    },
+    {
+      "stanza": 2,
+      "start_ms": 12873,
+      "end_ms": 25864
+    },
+    {
+      "stanza": 3,
+      "start_ms": 26695,
+      "end_ms": 39395
+    },
+    {
+      "stanza": 4,
+      "start_ms": 40214,
+      "end_ms": 52242
+    },
+    {
+      "stanza": 5,
+      "start_ms": 52979,
+      "end_ms": 65948
+    },
+    {
+      "stanza": 6,
+      "start_ms": 66723,
+      "end_ms": 78657
+    },
+    {
+      "stanza": 7,
+      "start_ms": 79561,
+      "end_ms": 92733
+    },
+    {
+      "stanza": 8,
+      "start_ms": 93689,
+      "end_ms": 105427
+    },
+    {
+      "stanza": 9,
+      "start_ms": 106269,
+      "end_ms": 118100
+    },
+    {
+      "stanza": 10,
+      "start_ms": 118868,
+      "end_ms": 131343
+    }
+  ]
+}
