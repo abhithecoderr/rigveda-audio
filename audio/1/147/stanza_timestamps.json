@@ -1,0 +1,99 @@
+{
+  "mandala": 1,
+  "hymn": 147,
+  "total_stanzas_created": 5,
+  "detected_non_silent_lines": [
+    {
+      "line_num": 1,
+      "start_ms": 872,
+      "end_ms": 9689,
+      "duration_ms": 8817
+    },
+    {
+      "line_num": 2,
+      "start_ms": 10773,
+      "end_ms": 19373,
+      "duration_ms": 8600
+    },
+    {
+      "line_num": 3,
+      "start_ms": 20309,
+      "end_ms": 28119,
+      "duration_ms": 7810
+    },
+    {
+      "line_num": 4,
+      "start_ms": 29163,
+      "end_ms": 36995,
+      "duration_ms": 7832
+    },
+    {
+      "line_num": 5,
+      "start_ms": 38088,
+      "end_ms": 47572,
+      "duration_ms": 9484
+    },
+    {
+      "line_num": 6,
+      "start_ms": 48681,
+      "end_ms": 57331,
+      "duration_ms": 8650
+    },
+    {
+      "line_num": 7,
+      "start_ms": 58566,
+      "end_ms": 66446,
+      "duration_ms": 7880
+    },
+    {
+      "line_num": 8,
+      "start_ms": 67578,
+      "end_ms": 76285,
+      "duration_ms": 8707
+    },
+    {
+      "line_num": 9,
+      "start_ms": 77351,
+      "end_ms": 84796,
+      "duration_ms": 7445
+    },
+    {
+      "line_num": 10,
+      "start_ms": 85959,
+      "end_ms": 93509,
+      "duration_ms": 7550
+    }
+  ],
+  "stanzas": [
+    {
+      "stanza_num": 1,
+      "start_ms": 872,
+      "end_ms": 19573,
+      "lines_used": 2
+    },
+    {
+      "stanza_num": 2,
+      "start_ms": 20309,
+      "end_ms": 37195,
+      "lines_used": 2
+    },
+    {
+      "stanza_num": 3,
+      "start_ms": 38088,
+      "end_ms": 57531,
+      "lines_used": 2
+    },
+    {
+      "stanza_num": 4,
+      "start_ms": 58566,
+      "end_ms": 76485,
+      "lines_used": 2
+    },
+    {
+      "stanza_num": 5,
+      "start_ms": 77351,
+      "end_ms": 93709,
+      "lines_used": 2
+    }
+  ]
+}
